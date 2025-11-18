@@ -4,7 +4,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen flex flex-col bg-slate-100 dark:bg-slate-900">
       {/* Header */}
-      <header className="bg-white dark:bg-slate-800 border-b border-slate-200 dark:border-slate-700 shadow-sm">
+      <header className="bg-blue-50 dark:bg-blue-900 border-b border-blue-200 dark:border-blue-700 shadow-sm">
         <div className="py-4 px-6">
           <h1 className="text-base font-semibold">
             <span className="text-gray-800 dark:text-gray-100">Your</span>
